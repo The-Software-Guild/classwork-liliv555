@@ -1,5 +1,7 @@
 com\sg\foundations\basics\core\CommentingCode.class
+com\sg\foundations\userinput\QuestForTheUserInput.class
 com\sg\foundations\basics\core\AllTheMaths.class
+com\sg\foundations\userinput\MiniMadLibs.class
 com\sg\foundations\variables\MenuOfChampions.class
 com\sg\foundations\variables\BestAdderEver.class
 com\sg\foundations\basics\core\ABeginning.class
