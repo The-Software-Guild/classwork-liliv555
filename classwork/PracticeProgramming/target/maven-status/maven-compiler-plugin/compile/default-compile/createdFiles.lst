@@ -12,5 +12,7 @@ com\sg\foundations\flowcontrol\random\ALittleChaos.class
 com\sg\foundations\userinput\MiniMadLibs.class
 com\sg\foundations\variables\MenuOfChampions.class
 com\sg\foundations\variables\BestAdderEver.class
+com\sg\foundations\flowcontrol\whiles\LazyTeenager.class
 com\sg\foundations\flowcontrol\ifs\LlamasWhalesAndDodosOhMy.class
 com\sg\foundations\variables\AllAboutMe.class
+com\sg\foundations\flowcontrol\whiles\WaitAWhile.class
